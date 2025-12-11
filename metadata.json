@@ -1,0 +1,7 @@
+{
+  "name": "RideShare Pro",
+  "description": "A comprehensive multi-modal ride-sharing and delivery application prototype featuring user booking, driver management, and admin reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
